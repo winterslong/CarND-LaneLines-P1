@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image5]: ./test_images_output/solidYellowCurve_roi_mask.jpg "region of interest"
 [image6]: ./test_images_output/solidYellowCurve_roi_edges.jpg "edges of ROI"
 [image7]: ./test_images_output/solidYellowCurve_hough_lines.jpg "hough transform"
-[image8]: ./test_images_output/solidYellowCurve_result_img.jpg "result"
+[image8]: ./test_images_output/solidYellowCurve_result.jpg "result"
 
 
 [image9]: ./test_images_output/challenge_Moment-0001-large-03s_roi_mask.jpg "left slope more"
